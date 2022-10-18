@@ -5,24 +5,6 @@ https://play.google.com/store/apps/details?id=cn.geekapp.ggstudioweb
 ## 国内镜像下载：
 https://www.mumudroid.com/detail/107.html
 
-
-## 已兼容油猴Tampermonkey语法：
-1.  @name
-2.  @version
-3.  @author
-4.  @description
-5.  @include
-6.  @match
-7.  @exclude
-8.  @require
-9.  @run-at
-
-## 已兼容油猴Tampermonkey函数：
-1.  GM_setValue(name, value)
-2.  GM_getValue(name, defaultValue)
-3.  GM_deleteValue(name)
-4.  GM_log(message)
-
 ## 原生接口支持
 #### 1.显示信息接口名称：toast(msg)
 
@@ -74,7 +56,7 @@ https://www.mumudroid.com/detail/107.html
 
 说明：您也可以通过JS或Jquery接口获取。
 
-# 代码示例
+## 代码示例
 #### 模拟上滑手势/Simulate up slide gesture
 ```javascript
 // ==UserScript==
@@ -102,3 +84,22 @@ https://www.mumudroid.com/detail/107.html
   }, 3000);
 })();
 ```
+## 屏幕坐标
+<img src="screen_coordinates.jpg" width="320">
+
+## 已兼容油猴Tampermonkey语法：
+1.  @name
+2.  @version
+3.  @author
+4.  @description
+5.  @include
+6.  @match
+7.  @exclude
+8.  @require
+9.  @run-at
+
+## 已兼容油猴Tampermonkey函数：
+1.  GM_setValue(name, value)
+2.  GM_getValue(name, defaultValue)
+3.  GM_deleteValue(name)
+4.  GM_log(message)
