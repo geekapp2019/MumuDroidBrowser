@@ -1,9 +1,12 @@
-# MumuDroidBrowser 脚本浏览器
+# Mumu Browser 脚本浏览器
 ## GooglePlay下载地址：
-https://play.google.com/store/apps/details?id=cn.geekapp.ggstudioweb
+https://play.google.com/store/apps/details?id=com.mumudroid.browser
 
 ## 国内镜像下载：
-https://www.mumudroid.com/detail/107.html
+https://www.mumudroid.com/detail/115.html
+
+## 在线接口文档
+https://www.mumudroid.com/topic_detail/0111.html
 
 ## 原生接口支持
 #### 1.显示信息接口名称：toast(msg)
